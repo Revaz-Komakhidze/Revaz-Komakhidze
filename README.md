@@ -6,7 +6,7 @@ I am Revaz Komakhidze, senior fullstack developer.
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 👨‍💻 &nbsp;Read more about my projects at []()
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming
 
 ### ⚡ Languages and Tools:
 
