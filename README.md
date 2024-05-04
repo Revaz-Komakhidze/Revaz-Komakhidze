@@ -8,7 +8,11 @@ I am Revaz Komakhidze, senior fullstack developer based in Tbilisi, Georgia.
 - 👨‍💻 &nbsp;See my skills in action by exploring the pinned projects
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming
 
----
+### ✨&nbsp; About Me
+
+As a Senior Fullstack Engineer with over 6 years of experience, I specialize in creating scalable and well-architected web applications that meet business needs. My expertise lies in the modern JavaScript ecosystem, utilizing technologies such as Node.js, Next.js, React.js, NestJS, and TypeScript to deliver robust solutions.
+
+Currently, I am deeply engaged with cloud technologies, focusing on AWS, serverless architectures, and cloud-native solutions. I hold two AWS certifications: AWS Solutions Architect Associate and AWS Developer Associate.
 
 ### 🚀&nbsp; Languages and Tools:
 
@@ -16,15 +20,7 @@ I am Revaz Komakhidze, senior fullstack developer based in Tbilisi, Georgia.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revaz-komakhidze&show_icons=true&locale=en&layout=compact" alt="revaz-komakhidze" /></p>
 
----
-
-### ✨&nbsp; About Me
-
-As a Senior Fullstack Engineer with over 6 years of experience, I specialize in creating scalable and well-architected web applications that meet business needs. My expertise lies in the modern JavaScript ecosystem, utilizing technologies such as Node.js, Next.js, React.js, NestJS, and TypeScript to deliver robust solutions.
-
-Currently, I am deeply engaged with cloud technologies, focusing on AWS, serverless architectures, and cloud-native solutions. I hold two AWS certifications: AWS Solutions Architect Associate and AWS Developer Associate.
-
-🔗 &nbsp;**Connect with me**
+### 🔗&nbsp;Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/revaz-komakhidze-9a9962208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
