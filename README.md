@@ -8,7 +8,11 @@ I am Revaz Komakhidze, senior fullstack developer based in Tbilisi, Georgia.
 - 👨‍💻 &nbsp;See my skills in action by exploring the pinned projects
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming
 
----
+### ✨&nbsp; About Me
+
+As a Senior Fullstack Engineer with over 6 years of experience, I specialize in creating scalable and well-architected web applications that meet business needs. My expertise lies in the modern JavaScript ecosystem, utilizing technologies such as Node.js, Next.js, React.js, NestJS, and TypeScript to deliver robust solutions.
+
+Currently, I am deeply engaged with cloud technologies, focusing on AWS, serverless architectures, and cloud-native solutions. I hold two AWS certifications: AWS Solutions Architect Associate and AWS Developer Associate.
 
 ### 🚀&nbsp; Languages and Tools:
 
