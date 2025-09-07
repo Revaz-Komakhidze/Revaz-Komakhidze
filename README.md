@@ -2,11 +2,10 @@
 
 I am Revaz Komakhidze, senior fullstack developer based in Tbilisi, Georgia.
 
-- 🔭 &nbsp;I’m currently working as **Sr. Software Engineer @Klika Tech**
-- 🌱 &nbsp;I’m currently learning **Blockchain**
+- 🔭 &nbsp;I’m currently working as **Sr. Software Engineer @ActiveFence**
+- 🌱 &nbsp;I’m currently learning **AI/ML, Python**
 - 💬 &nbsp;Ask me about anything related to Javascript Ecosystem
 - 👨‍💻 &nbsp;See my skills in action by exploring the pinned projects
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming
 
 ### ✨&nbsp; About Me
 
