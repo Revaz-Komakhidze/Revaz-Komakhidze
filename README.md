@@ -21,15 +21,6 @@ Currently, I am heavily focused on cloud technologies, with a strong emphasis on
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revaz-komakhidze&show_icons=true&locale=en&layout=compact" alt="revaz-komakhidze" /></p>
 
----
-
-### ✨&nbsp; About Me
-
-As a Senior Fullstack Engineer with over 6 years of experience, I specialize in building scalable, maintainable, and well-architected web applications using common design patterns that align with business objectives. My expertise spans the modern JavaScript ecosystem, utilizing technologies such as Node.js, Next.js, React.js, NestJS, and TypeScript to deliver high-quality, robust solutions.
-
-I have successfully partnered with both large enterprises and small startups, helping them transform their innovative ideas into well-tested, maintainable software.
-
-Currently, I am heavily focused on cloud technologies, with a strong emphasis on AWS, serverless architectures, and cloud-native solutions. I hold two AWS certifications: AWS Solutions Architect Associate and AWS Developer Associate.
 
 🔗 &nbsp;**Connect with me**
 
