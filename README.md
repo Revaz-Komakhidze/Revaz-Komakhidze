@@ -9,7 +9,7 @@ I am Revaz Komakhidze, senior fullstack developer based in Tbilisi, Georgia.
 
 ### ✨&nbsp; About Me
 
-As a Senior Fullstack Engineer with over 6 years of experience, I specialize in building scalable, maintainable, and well-architected web applications using common design patterns that align with business objectives. My expertise spans the modern JavaScript ecosystem, utilizing technologies such as Node.js, Next.js, React.js, NestJS, and TypeScript to deliver high-quality, robust solutions.
+As a Senior Fullstack Engineer with over 7 years of experience, I specialize in building scalable, maintainable, and well-architected web applications using common design patterns that align with business objectives. My expertise spans the modern JavaScript ecosystem, utilizing technologies such as Node.js, Next.js, React.js, NestJS, and TypeScript to deliver high-quality, robust solutions.
 
 I have successfully partnered with both large enterprises and small startups, helping them transform their innovative ideas into well-tested, maintainable software.
 
